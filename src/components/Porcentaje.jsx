@@ -4,7 +4,7 @@ import { PlazoContext } from "./content/PlazoContent";
 export const Porcentaje = () => {
   const { setPorcentaje } = useContext(PlazoContext);
 
-  console.log("hola3");
+  console.log("prueba3");
   return (
     <>
       <div className="contenedor">

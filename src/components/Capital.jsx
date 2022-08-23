@@ -4,7 +4,7 @@ import { PlazoContext } from "./content/PlazoContent";
 export const Capital = () => {
   const { setCapital } = useContext(PlazoContext);
 
-  console.log('hola1')
+  console.log('prueba1')
 
   return (
     <>

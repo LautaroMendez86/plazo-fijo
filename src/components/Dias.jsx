@@ -4,7 +4,7 @@ import { PlazoContext } from "./content/PlazoContent";
 export const Dias = () => {
   const { setDias } = useContext(PlazoContext);
 
-  console.log('hola1000')
+  console.log('prueba2')
 
   return (
     <>
